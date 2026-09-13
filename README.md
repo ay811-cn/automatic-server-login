@@ -8,7 +8,7 @@
 - **开源地址**：<https://github.com/ay811-cn/automatic-server-login>
 - **运行环境**：Minecraft 1.20.1 · Fabric Loader · Fabric API · Java 17+
 - **协议**：MIT
-
+# 如希望有更多版本支持可提交提议！！！！！！
 ## 功能
 
 - 首次启动自动生成配置文件，主界面（标题画面）底部显示中文引导，填好后自动消失

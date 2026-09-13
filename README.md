@@ -1,6 +1,6 @@
 # Automatic Server Login
 
-![icon](src/main/resources/assets/automatic-server-login/icon.png)
+![icon](icon.jpg)
 
 进入指定服务器后**自动发送登录指令**的 Fabric 客户端模组，无需再手动输入 `/l 密码`。
 
